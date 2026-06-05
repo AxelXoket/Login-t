@@ -1,6 +1,6 @@
 <div align="center">
 
-# Anti-UX Login Hell
+# Login't
 
 **Frontend-only parody login flow with hostile UX, mock session auth, Sudoku, and Minesweeper captcha chaos**
 
@@ -18,7 +18,7 @@
 
 ---
 
-Anti-UX Login Hell is a polished, frontend-only parody of a login/register experience. It looks modern, behaves intentionally badly, and never pretends to provide real authentication or real captcha security.
+Login't is a polished, frontend-only parody of a login/register experience. It looks modern, behaves intentionally badly, and never pretends to provide real authentication or real captcha security.
 
 ## Features
 
